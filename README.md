@@ -84,6 +84,9 @@ This command launches bot
 ```python
 bot.polling(non_stop=True)
 ```
+# Summary
+The simple bot shows satisfactory result working with text or screenshot text you send him and has some difficulties with translation of text to be recognized on photos.
+
 
 
 
