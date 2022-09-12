@@ -6,7 +6,7 @@ The bot is based on the following APIs:
 1. [Google Translate API](https://translate.google.com/)
 2. [Tesseract API](https://github.com/tesseract-ocr/tesseract)
 ## Examples
-In the Examples directory you can find a few screenshots of this bot in action
+In the [Examples](https://github.com/RenatZiganshin/Translation.bot.OCR/tree/main/Examples) directory you can find a few screenshots of this bot in action
 # Code
 Modules that must be installed for this this bot:
 1. [googletrans](https://pypi.org/project/googletrans/)
