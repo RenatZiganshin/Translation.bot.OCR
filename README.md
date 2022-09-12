@@ -85,7 +85,7 @@ This command launches bot
 bot.polling(non_stop=True)
 ```
 # Summary
-This simple bot shows satisfactory result working with text or screenshot text you send him and has some difficulties with translation of text to be recognized on photos.
+This simple bot shows satisfactory results working with text or screenshot text you send him and has some difficulties with translation of text to be recognized on photos.
 
 
 
